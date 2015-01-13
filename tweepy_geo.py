@@ -1,3 +1,11 @@
+#-------------------------------------------------------------------
+# Name:       tweepy_geo.py
+# Purpose:    Pull a filtered version of the Twitter public stream.
+# Author:     DT
+# Created:    01/12/2015
+# Python Version:   2.7.8
+#-------------------------------------------------------------------
+
 from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener

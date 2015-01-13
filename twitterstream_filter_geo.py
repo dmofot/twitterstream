@@ -1,3 +1,11 @@
+#-------------------------------------------------------------------
+# Name:       twitterstream_filter_geo.py
+# Purpose:    Pull a filtered version of the Twitter public stream.
+# Author:     DT
+# Created:    01/12/2015
+# Python Version:   2.7.8
+#-------------------------------------------------------------------
+
 import oauth2 as oauth
 import urllib2 as urllib
 
